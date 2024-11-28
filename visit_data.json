@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "visit_time": "2024-11-28 20:23:48",
+        "ip_address": "127.0.0.1",
+        "referrer": "http://127.0.0.1:5000/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+        "verified": true
+    },
+    {
+        "id": 2,
+        "visit_time": "2024-11-28 20:23:50",
+        "ip_address": "127.0.0.1",
+        "referrer": "http://127.0.0.1:5000/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+        "verified": true
+    },
+    {
+        "id": 3,
+        "visit_time": "2024-11-28 20:42:19",
+        "ip_address": "127.0.0.1",
+        "referrer": "https://e089-87-245-175-2.ngrok-free.app/",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.7.10 Mobile/20H350 Safari/604.1",
+        "verified": true
+    },
+    {
+        "id": 4,
+        "visit_time": "2024-11-28 20:42:21",
+        "ip_address": "127.0.0.1",
+        "referrer": "https://e089-87-245-175-2.ngrok-free.app/",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.7.10 Mobile/20H350 Safari/604.1",
+        "verified": true
+    },
+    {
+        "ip_address": "69.162.72.90",
+        "visit_time": "2024-11-28 21:25:28",
+        "referrer": "https://b64a-87-245-175-2.ngrok-free.app/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+        "country": "Unknown",
+        "uuid": null
+    },
+    {
+        "ip_address": "141.101.249.10",
+        "visit_time": "2024-11-28 21:28:20",
+        "referrer": "https://b64a-87-245-175-2.ngrok-free.app/",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5.1 Mobile/21F90 Safari/604.1",
+        "country": "Unknown",
+        "uuid": null
+    },
+    {
+        "ip_address": "176.99.177.122",
+        "visit_time": "2024-11-28 21:43:01",
+        "referrer": "https://b64a-87-245-175-2.ngrok-free.app/",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.107 Mobile Safari/537.36",
+        "country": "Unknown",
+        "uuid": null
+    }
+]
